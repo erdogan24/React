@@ -20,7 +20,6 @@ export default function ProductList() {
         <Table.Body>
           <Table.Row>
             <Table.Cell>
-              <Label ribbon>First</Label>
             </Table.Cell>
             <Table.Cell>Cell</Table.Cell>
             <Table.Cell>Cell</Table.Cell>
